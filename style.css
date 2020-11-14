@@ -1,0 +1,108 @@
+*{
+  background-color: white;
+  padding:0px;
+  margin: 0px;
+  font-family: Helvetica;
+}
+
+p{text-align: center;
+  margin-bottom: 5px;
+  line-height: 1.6;
+  margin: 2px 3px 2px 3px;
+}
+
+
+div{
+  margin: 60px 5px 5px 10px;
+}
+
+a{
+text-decoration: none;  
+color: black;
+}
+
+.me{
+  height: 50px;
+  width: auto;
+  object-fit: contain;
+  border: solid black 1px;
+  border-radius: 50%;
+  position: fixed;
+}
+
+.welcome{
+  height: auto;
+  font-size: 30px;
+  font-weight: bold;
+  display: block;
+  line-height: 2;
+}
+
+.astroBoy{
+  height: 200px;
+  width: auto;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: white;
+  border-radius: 10%;
+  
+}
+
+.conn{
+  width: 40px;
+  height: 40px;
+  margin-left: 55px;
+  margin-top: 5px;
+}
+
+#about{
+  color: #AF0DDA;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.myImage{
+  object-fit: contain;
+  height: 130px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border: solid white 1px;
+  border-radius: 5%;
+}
+
+.figCaption{
+  font-weight: bold;
+  text-align: center;
+  margin: 10px 3px 10px 3px;
+  font-size: 15px;
+}
+
+#skills{
+  color: #AF0DDA;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+#dreams{
+  color: #AF0DDA;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+#contact{
+  color: #AF0DDA;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
